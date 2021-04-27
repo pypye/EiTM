@@ -1,0 +1,39 @@
+# depslib dependency file v1.0
+1619495454 source:e:\c++\eitm\main.cpp
+	<iostream>
+	<sstream>
+	<vector>
+	<iomanip>
+	"login.h"
+	"data.h"
+	"balance.h"
+
+1618930501 source:e:\c++\eitm\src\login.cpp
+	"login.h"
+
+1619496465 e:\c++\eitm\src\login.h
+	<iostream>
+	<vector>
+	<windows.h>
+	"data.h"
+
+1619496319 source:e:\c++\eitm\src\data.cpp
+	"data.h"
+
+1619495010 e:\c++\eitm\src\data.h
+	<iostream>
+	<map>
+	<fstream>
+	<deque>
+	"login.h"
+
+1619496230 source:e:\c++\eitm\src\balance.cpp
+	"balance.h"
+
+1619491281 e:\c++\eitm\src\balance.h
+	<vector>
+	<iostream>
+	<sstream>
+	<algorithm>
+	"data.h"
+
